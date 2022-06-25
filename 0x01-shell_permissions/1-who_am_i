@@ -1,3 +1,2 @@
 #!/bin/bash
-pwd
 su who_am_i
