@@ -1,3 +1,3 @@
 #!/bin/bash
 pwd
-su 1-who_am_i
+su who_am_i
