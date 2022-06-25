@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x who_am_i
+sudo chmod +x 1-who_am_i
