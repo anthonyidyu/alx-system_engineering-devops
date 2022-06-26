@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 whoami
+=======
+su betty
+>>>>>>> 0efdbfae244c1c843c59c19e3a9da6ec2f75945c
